@@ -2,7 +2,7 @@
 
 This application allows users to track the daily workout data, such as type of exercise, duration and sets etc..
 
-Deployed Link:
+Deployed Link: https://frozen-everglades-55303.herokuapp.com
 
 ## Description
 Before enter any data, a schema has been created, as it allows the data goes into the correct fields and store in the MongoDB collection.
